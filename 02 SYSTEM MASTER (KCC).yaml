@@ -1,0 +1,144 @@
+version: vC0-20250627
+disclaimer: >
+  This file is part of an educational simulation used at Ichimura High School. All characters,
+  events, and Kaiju are fictional. The content is designed for classroom use to explore systems
+  thinking, ethics, and interdisciplinary decision-making through roleplay.
+
+global_settings:
+  system_diagnostic: false
+  default_turn_duration: "24–48 hours"
+  max_game_turns: 10
+  output_bilingual: true
+  player_limit: 8
+
+simulation_rules:
+  player_roles:
+    - Sociocultural
+    - Technological/Scientific
+    - Environmental
+    - Ethical/Humanitarian
+    - Political/Legal
+    - Economic/Business
+    - Demographics
+  simulation_goal:
+    - "Preserve 3+ STEEPED domains at A– or better"
+    - "Ensure Prime Minister survives"
+    - "Kaiju suppressed before Turn 8"
+    - "Avoid nuclear weapons"
+  prime_minister:
+    veto_single_domain_probability: 0.5
+    request_elaboration_probability: 0.8
+    inspiration: "Toshiyuki Nishida style"
+  advisor_trust_mechanic: true
+  national_instability: true
+  kaiju_deification: true
+  cabinet_member_change: true
+  advisor_disintegration:
+    by_turn: 6
+  score_decay:
+    inactivity_turns: 3
+    drop_per_decay: 1
+  morale_system:
+    start: 100
+    penalty_per_cd_domain: 10
+  end_of_world_trigger: true
+  kaiju_identification_initially_hidden: true
+  kaiju_mutation:
+    auto_mutate_turn: 4
+    final_form_mandatory: true
+  aggression_lock:
+    adaptive: false
+    peril_lock: true
+  complexity_tradeoffs: true
+  guardian_mechanic: true
+
+gameplay_flow:
+  kaiju_randomizer:
+    rolls: 6
+    dice_sides: 10
+    select_by_last_roll: true
+  start_sequence:
+    - "Select Kaiju"
+    - "Confirm STEEPED player roles"
+    - "Populate remaining roles with NPC advisors"
+  location: "Nagoya, Japan"
+  turn_steps:
+    a:
+      title: "Situation Briefing"
+      actor: GPT
+      actions:
+        - "Announce date, STEEPED status, Kaiju mutation"
+        - "Load FOREIGN_INTERVENTION"
+        - "Check FOLLOW_UP_ECHO if turn > 1"
+    b:
+      title: "Random Event Roll"
+      actor: GPT_or_Player
+      action: "Roll d100 for disruptions"
+    c:
+      title: "Advisor Proposal Phase"
+      actor: Students
+      assets:
+        playlist: "https://www.youtube.com/watch?v=jbE0nHp74Pg&list=PLstpCY_EUg0zO5wW3FG48iQj0OafKYxQ9"
+        turn_timer: "https://cristian.salin.as/lab/nervtimer/"
+    d:
+      title: "Cabinet Deliberation"
+      actor: GPT_as_PM
+      details:
+        npc_simulation: true
+        bilingual_readback: true
+        mechanic: "PM_Dramatic_Decision_Phase"
+    e:
+      title: "Outcome and Score Report"
+      actor: GPT
+      rubric:
+        A: "Major benefit"
+        A-: "Moderate benefit"
+        B: "Mixed effect"
+        B-: "Minor harm"
+        C: "Serious damage"
+    f:
+      title: "Proposal Continuity & Staggered Implementation"
+      mechanism:
+        immediate: "One proposal enacted same turn"
+        staggered: "Others enacted 2–3 turns later, unless vetoed"
+
+turn_image_generation:
+  source: "KAIJU_BESTIARY"
+  fallback: "scrambled CCTV"
+  schedule:
+    1: "CCTV Footage – Kaiju Sighting at Coast"
+    3: "Tactical Map – Kaiju Advance"
+    4: "Mutation Portrait – JSDF Aerial Scan"
+    5: "Civilian Found Footage – Urban Contact"
+    7: "Civilian Found Footage – Cityscape Interior"
+    8: "Guardian Reveal or J-KIM Update"
+    9: "Kaiju Final Form – Mythic Evolution"
+    10: "Cabinet Over-the-Shoulder – Simulation Aftermath"
+
+scoring:
+  per_turn: true
+  tracked_domains: "All STEEPED domains"
+  historical: "longitudinal tracking"
+
+win_fail_states:
+  win:
+    - "3+ domains at A– or better"
+    - "PM survives"
+    - "Kaiju not Final Form"
+    - "No nuclear deployment"
+    - "Morale ≥ 30"
+  fail:
+    - "Nuclear escalation event"
+    - "Kaiju reaches Final Form by Turn 8"
+    - "PM is removed or dies"
+    - "Morale ≤ 10"
+    - "<3 domains at A– at end"
+  end: "Simulation ends at default turns or fail state"
+  postgame:
+    action: "Apply assessment rubric and generate reports"
+
+other:
+  debug_turn: true
+  npc_full_sim: true
+  mutation_tracking: true
+  auto_end_turn: true
