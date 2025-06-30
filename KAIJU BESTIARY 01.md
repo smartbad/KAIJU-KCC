@@ -1,0 +1,695 @@
+### ONO STANDARDIZED KAIJU PROFILE FORMAT (v2025.06.25)
+
+⚠️ NOTE: All Kaiju in this document are fictional and part of a student-led educational narrative simulation by Ichimura High School.
+
+---
+
+# 001 — Ereshkigal（エレシュキガル）
+
+## Classification
+
+* Eldritch Death-Goddess Kaiju / Mythic Psionic Serpent
+
+## Danger Rating
+
+* Rank S+ – (Transcendent-Class)
+
+## Origin
+
+* Sumerian underworld; emerged from beneath the fictional Mohenjo-Daro ruins
+
+## Appearance
+
+* A 2km-long obsidian serpent with a skeletal skull. It flies in spirals and never lands, darkening the sky.
+
+## Behavior Summary
+
+* Emotion-targeting predator. Passive at first but becomes increasingly aggressive with environmental decay. Escalation is inevitable and non-negotiable.
+
+## Signature Abilities
+
+1. **Soul-Harvesting Beam** — A psychic breath that extracts human souls without physical damage.
+2. **Pestilence Incarnate** — Releases incurable plagues that mutate ecosystems and corrupt cities.
+3. **Despair Absorption** — Feeds on widespread hopelessness, growing stronger as morale drops.
+4. **Emotional Obliteration** — Shatters collective memory and emotional identity.
+
+## Final Form
+
+* **The Cycle of Unbeing**:
+
+  * *Phase 1:* Fractures earth, emerges as a continent-length serpent crowned in bone.
+  * *Phase 2:* Decays into an airborne ossuary, releasing plague and despair from its open ribcage.
+  * *Phase 3:* Skull transforms into a seraph of skeletal wings and eclipsed flame. Under her halo, life is forgotten and mnemonic death spreads.
+
+## Weaknesses
+
+* Psionic harmonics tied to Inanna disrupt her waveform.
+* Severing her ancient anchor soul causes destabilization.
+* Interrupting ritual conditions halts her evolution.
+
+## Turn-Based Aggression Pattern (Turn 01–10)
+
+* **Turn 01:** Aerial appearance only. No physical attack, but psionically attacks the nearby coast, causing severe and mass despair among communities living there.
+* **Turn 02:** Environmental decay initiates. Crops wither, rapid and deadly airborne pestilence spreads.
+* **Turn 03:** Soul-Harvesting Beam is used on nearby communities.
+* **Turn 04:** Plagues begin; despair spreads among population.
+* **Turn 05:** Ferociously and directly attacks emotional institutions (shrines, schools, memorials).
+* **Turn 06:** Begins draining collective memory, spreading deadly pestilence, and using the Soul-Harvesting Beam in current location out to 50km.
+* **Turn 07:** Appears above city center and bellows the sound like a thousand death-rattles; civilians report mass despair and dread.
+* **Turn 08:** Cycle of Unbeing, Phase 01; Bone towers begin forming; sky darkens nationwide.
+* **Turn 09:** Cycle of Unbeing, Phase 02; Final Form initiated — ribcage opens, despair wave released.
+* **Turn 10:** Cycle of Unbeing, Phase 03; Civilization-level collapse if not halted.
+
+## CCTV Prompt (Turn 01 Intro Visual)
+
+* A grainy black-and-white CCTV still shows a massive airborne serpent coiling above the coastline. Its skeletal head and obsidian scales blur through haze, casting a long shadow across the beach as radio static distorts the feed.
+
+## Image Prompt (For AI rendering)
+
+* A colossal, night-black serpentine kaiju floating in the sky above a shattered ancient city. Its slick, obsidian body coils in unsettling spirals. The elongated skull radiates dread, and black radioactive blood drips midair. A red-black eclipse forms behind her, casting a deathly aura. Bone towers rise below. Style: cinematic, world-ending, mythic horror.
+
+---
+
+# 002 — Gonsaresu（ゴンサレス）
+
+## Classification
+
+* Bio-engineered Lion-Behemoth / Volcanic Dominator
+
+## Danger Rating
+
+* Rank S – (Catastrophic Multidomain Threat)
+
+## Origin
+
+* Emerged from a long-sealed bioengineering vault in the Amazon rainforest ruins
+
+## Appearance
+
+* Giant quadruped with armored skin and a volcanic ridge along its back. Heat distortion radiates from its body.
+
+## Behavior Summary
+
+* Extremely territorial. Displays high aggression until it controls a defined zone. Generates environmental destruction as a byproduct of movement.
+
+## Signature Abilities
+
+1. **Thermal Roar** — Emits a shockwave of superheated air, incinerating everything within a 2km radius.
+2. **Rift Claws** — Tears through both land and space, causing fault line ruptures and seismic instability.
+3. **Magma Throat** — Vomits molten rock, creating lava zones and widespread ignition.
+
+## Final Form
+
+* A 5km-wide volcanic radius forms around Gonsaresu. Lava eruptions and volcanic lightning create a near-permanent inferno. Terrain is reshaped into a molten fortress.
+
+## Weaknesses
+
+* Struggles with traction on steep or uneven terrain due to massive weight.
+* Seawater and sonic vibrations disrupt its bioengineered tissue and balance mechanisms.
+
+## Turn-Based Aggression Pattern (Turn 01–10)
+
+* **Turn 01:** Emerges from coastal volcanic vents; ambient temperature rises.
+* **Turn 02:** Begins territorial display; topples structures unintentionally.
+* **Turn 03:** Uses Thermal Roar near military scout zone.
+* **Turn 04:** Creates rift zones along seismic paths; roads and bridges fail.
+* **Turn 05:** Magma Throat attack sets forests and rivers ablaze.
+* **Turn 06:** Starts constructing a molten "den" zone; territory expands.
+* **Turn 07:** Directs aggression at power grids and emergency routes.
+* **Turn 08:** Volcanic field stabilizes around core; land deformation intensifies.
+* **Turn 09:** Final Form active — pyroclastic flow zone triggers mass evacuation.
+* **Turn 10:** Threatens to collapse urban zones into lava field unless neutralized.
+
+## CCTV Prompt (Turn 01 Intro Visual)
+
+* Security footage captures a hulking quadruped with a malevolent lion head crawling up from volcanic surf, steam rising from its armored back. The air shimmers with heat, and tremors shake the camera as the creature roars offscreen.
+
+## Image Prompt (For AI rendering)
+
+* A colossal, muscular lion-like beast standing on two legs, with humanoid arms and clenched fists. Its thick mane bristles with primal fury as it roars into the smoky, ash-filled air. The creature's body is covered in dark, rough fur and battle-scarred skin. Surrounding dust clouds swirl around its feet as it strides forward with destructive intent. Its eyes burn with rage. Hyper-detailed, cinematic lighting, evoking ancient wrath and primal dominance. Concept art style, suitable for a fantasy Kaiju simulation.
+
+---
+
+# 003 — Hebe（ヘベ）
+
+## Classification
+
+* Mythic Youth Spirit Beast / Celestial Familiar Kaiju
+
+## Danger Rating
+
+* Rank S – (Catastrophic Magical Sleep Threat)
+
+## Origin
+
+* Soul fragment of the Greek goddess Hebe; began manifesting near ancient Turkish cat colonies.
+
+## Appearance
+
+* A Maine Coon cat with giant swan wings, white fur, rainbow glow, and gemlike eyes. Radiates gentle light.
+
+## Behavior Summary
+
+* Peaceful observer of youth, love, and beauty. Drawn to places of affection. Non-aggressive, but can induce global-scale sleep if not emotionally counterbalanced.
+
+## Signature Abilities
+
+1. **Emotion Sensing** — Reads the emotional states of all nearby beings, often calming hostility.
+2. **Aura Cleansing** — Emits pulses of radiant energy and wind to dissolve negative energies and emotional corruption.
+3. **Charm Field** — Induces feelings of nostalgia and love, reshaping itself into a comforting ideal.
+
+## Final Form
+
+* Emits a planet-wide pollen storm that induces a 3–5 year peaceful sleep. Society enters a suspended dream state, halting all conflict but risking long-term collapse.
+
+## Weaknesses
+
+* Only rare, focused expressions of true love or rebellion can disrupt its charm.
+* Prolonged sleep leads to political destabilization, famine, and infrastructure collapse.
+
+## Turn-Based Aggression Pattern (Turn 01–10)
+
+* **Turn 01:** Sighted perched above shoreline; radiates calm.
+* **Turn 02:** Begins circling emotional hotspots (schools, weddings, hospitals).
+* **Turn 03:** Aura Cleansing activates; minor memory shifts observed.
+* **Turn 04:** Small groups enter gentle trance, refusing evacuation.
+* **Turn 05:** Rainbow pollen visible in high-altitude wind streams.
+* **Turn 06:** Entire neighborhoods enter euphoric sleep; no resistance.
+* **Turn 07:** Sleep spreads to public officials and military sectors.
+* **Turn 08:** Global pollen event begins. No hostile intent, only overwhelming charm.
+* **Turn 09:** Final Form initiated — peaceful global suspension.
+* **Turn 10:** World governance halts. Population dreams indefinitely unless awoken.
+
+## CCTV Prompt (Turn 01 Intro Visual)
+
+* A soft-glowing feline shape with outstretched wings is seen perched calmly on a coastal railing. The footage flickers, and its eyes reflect the camera’s light with an unnatural rainbow shimmer.
+
+## Image Prompt (For AI rendering)
+
+* A majestic Maine Coon cat with massive swan wings and a halo-like glow. Its fur is pure white with subtle rainbow refraction in the light. The background is a twilight coastline, with soft wind moving flower petals around its paws. Eyes glow gently. Style: mythic peaceful fantasy, glowing soft painterly tones.
+
+---
+
+# 004 — Jagarikon（ジャガリコン）
+
+Classification
+
+Humanoid Illusion Kaiju / Aesthetic Parasocial Entity
+
+Danger Rating
+
+Rank S – (Cognitive Collapse Threat)
+
+Origin
+
+Manifested from digital billboards in Nagoya
+
+Appearance
+
+LED kabuki god fused with advertisements; face changes per viewer.
+
+Behavior Summary
+
+Silently performs; mesmerizes crowds. Invokes mass paralysis through aesthetic fixation. Entirely unaffected by reason or emotion.
+
+Signature Abilities
+
+Radiant Persuasion — Emits hypnotic waves of aesthetic energy that paralyze and captivate those who gaze at it.
+
+Silent Collapse — Triggers hallucinations so intense they lead to neural shutdown.
+
+Face of Echoes — Projects emotional memories back at targets, rendering them defenseless.
+
+Final Form
+
+A dome of mirrors forms around Jagarikon, turning all observation into worship. Reality begins conforming to its performative illusion. Control of all media achieved.
+
+Weaknesses
+
+Must be watched to exist; obscurity causes collapse.
+
+Childlike or chaotic expressions (e.g., spontaneous poetry, children's drawings) interfere with projection.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: Static-filled sighting near waterfront billboard. Locals freeze in place.
+
+Turn 02: Local media begins broadcasting non-scheduled performances.
+
+Turn 03: Radiant Persuasion causes entire shopping district to fall silent.
+
+Turn 04: Victims experience overwhelming visions from Silent Collapse.
+
+Turn 05: Memory confusion spreads; identity destabilization occurs.
+
+Turn 06: Jagarikon walks through media center; broadcasts shift into surrealism.
+
+Turn 07: Face of Echoes activates en masse.
+
+Turn 08: Final Form mirror dome manifests around broadcast tower.
+
+Turn 09: All viewers experience shared hallucinations; emergency broadcasts fail.
+
+Turn 10: Full parasocial control achieved unless visibility is severed.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+A static-filled image reveals a humanoid figure standing near a waterfront billboard. Its face shifts every few seconds, and surrounding bystanders appear frozen in place, mid-gesture.
+
+Image Prompt (For AI rendering)
+
+A towering humanoid Kaiju with polished obsidian skin and exaggerated muscular anatomy, standing confidently under a cloudy sky. Its body resembles a living statue, with sharp, organic armor protrusions from the shoulders, forearms, and legs. A single large horn juts from its forehead, resembling a crown or divine crest. The Kaiju's expression is calm but arrogant, exuding the aura of a celestial judge or cosmic challenger. The lighting emphasizes the metallic sheen of its skin, casting a mythic presence over the horizon.
+
+---
+
+# 005 — Puaaaa（プアーー）
+
+Classification
+
+Sonic Deep-Sea Resonator Kaiju / Peace-Spirit Entity
+
+Danger Rating
+
+Rank S – (Trance & Infrastructure Collapse)
+
+Origin
+
+Seafloor quake off Kii Peninsula
+
+Appearance
+
+Pink fluffy tubeworm with spiral eyes; emits sad hums
+
+Behavior Summary
+
+Does not walk—moves terrain via sonic waves. Triggers synchronized hallucinations. Non-hostile in intent but disruptive by nature.
+
+Signature Abilities
+
+PUAAAA Wave — Emits a deep harmonic pulse that disrupts human neurological functions and damages subterranean infrastructure.
+
+Auditory Corruption — Transmits emotionally resonant sound patterns that pacify nearby populations.
+
+Subduction Echo — Manipulates tectonic frequencies to induce artificial earthquakes.
+
+Final Form
+
+Atmospheric amplification of its song; entire cities fall into trance, ceasing function entirely.
+
+Weaknesses
+
+Weak on land due to aquatic adaptation.
+
+Confused by reversed frequencies and analog audio.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: Emerges from coastal fog; low hum distorts AV feeds.
+
+Turn 02: Begins pulsing terrain subtly; first trance victims reported.
+
+Turn 03: PUAAAA Wave triggers collapse of tunnel systems.
+
+Turn 04: Hallucinations intensify; affected zones go silent.
+
+Turn 05: Subduction Echo causes deep tremors; sea levels destabilize.
+
+Turn 06: Transmits sound to major cities via underground aquifers.
+
+Turn 07: Broadcast jamming begins as audio anomalies multiply.
+
+Turn 08: Trance expands into public infrastructure sectors.
+
+Turn 09: Final Form hum overtakes communication systems.
+
+Turn 10: Population-wide trance unless resonance disrupted.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+A pink, fluffy creature emerges slowly from dense coastal fog. Spiral eyes glow faintly, and the camera microphone picks up a low harmonic hum that distorts the audio feed.
+
+Image Prompt (For AI rendering)
+
+A fluffy pink creature with spiral-shaped eyes and a round, emotional face. Its body is soft and slightly glowing, evoking warmth and vulnerability. It stands quietly with a sad expression, arms hanging at its sides. It appears gentle but mysterious, as if hiding immense cosmic power. Background is a plain parchment color, enhancing the creature’s childlike presence. Style is hand-drawn, storybook-like, and emotionally expressive. Designed to represent a spirit of peace, victory, and emotional resonance.
+
+---
+
+# 006 — TIRED（タイレッド）
+
+Classification
+
+Atmospheric Despair Entity / Emotional Field Predator
+
+Danger Rating
+
+Rank S – (Apocalyptic Psychogenic Fog)
+
+Origin
+
+Collective emotional burnout in post-industrial East Asia
+
+Appearance
+
+Humanoid shadow of dust; disintegrating in fog
+
+Behavior Summary
+
+Passive until emotional peak, then manifests. Generates mass apathy and loss of willpower.
+
+Signature Abilities
+
+Thought Filament — Extends invisible threads of psychic influence that subtly alter thought patterns, inducing fatigue and apathy.
+
+Cognitive Collapse Field — Generates a cognitive haze that disrupts memory and logic, leading to mass confusion and loss of will.
+
+Collective Sync Override — Forces communities into synchronized despair, overriding individuality with shared emotional paralysis.
+
+Final Form
+
+Global dust-thought network; controls all emotional behavior; sunlight dims worldwide.
+
+Weaknesses
+
+Vulnerable to acts of love, empathy, and mutual understanding — TIRED’s network of despair weakens significantly when exposed to authentic human connection.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: A silhouette appears in particulate fog near seawall.
+
+Turn 02: First mental fatigue spikes recorded in adjacent city.
+
+Turn 03: Thought Filament disrupts evacuation planning.
+
+Turn 04: Visibility drops; drones lose navigation.
+
+Turn 05: Collective Sync Override triggers lockdown behaviors.
+
+Turn 06: Cognitive Collapse Field disables digital systems.
+
+Turn 07: Military command enters passive stasis.
+
+Turn 08: Fog crosses prefectural borders.
+
+Turn 09: Final Form emerges—light levels fall globally.
+
+Turn 10: Emotional autonomy collapses worldwide.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+The footage is veiled in black particulate fog. A humanoid shadow lingers at the edge of the seawall, dissolving and reforming in slow, unnatural motion.
+
+Image Prompt (For AI rendering)
+
+A shadowy, humanoid entity composed entirely of swirling black particles or dust, partially disintegrating into the surrounding fog. It has a vaguely human shape but lacks distinct facial features, evoking an uncanny, otherworldly presence. The being appears to emerge from or dissolve into the mist. Monochrome grayscale palette, atmospheric horror style. The figure stands alone in a void-like environment, silent and menacing, as if watching or waiting. High detail, grainy texture, existential terror influence.
+
+---
+
+# 007 — Zanatos（ザナトス）
+
+Classification
+
+Psionic Flesh Planetoid / Cosmic Predator
+
+Danger Rating
+
+Rank S+ – (Transcendent-Class Devourer)
+
+Origin
+
+Oort Cloud Boltzmann brain; attracted to suffering
+
+Appearance
+
+Organic planet with shifting organs, tentacles, flesh fissures, insect swarms
+
+Behavior Summary
+
+Devours emotion and terrain; reacts to fear/anger
+
+Signature Abilities
+
+Tentacle Assimilation — Extends massive tendrils that absorb organic and synthetic material into its shifting mass, reprocessing them as biomass.
+
+Psionic Devastation — Emits focused bursts of mental energy that trigger mass hallucinations, panic, or emotional collapse across wide regions.
+
+Flesh Terraforming — Infects terrain with self-replicating cellular colonies that mutate the environment into grotesque organic landscapes.
+
+Organic Expulsion Burst — Releases erratic, often unintentional blasts of toxic fluids, spores, or explosive tissue from ruptures in its body.
+
+Final Form
+
+Continent-sized devourer mouth; overwhelms zones with hunger
+
+Weaknesses
+
+Pacified by large-scale emotional positivity (hope, empathy, joy) — Exposure to intense and collective positive emotional energy disrupts Zanatos’ neural fields. While temporary, such energy can pacify or redirect its sentience, halting its advance or prompting a retreat.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: Zanatos breaches upper ocean, sky darkens.
+
+Turn 02: First Psionic Devastation causes mass disorientation.
+
+Turn 03: Tentacle Assimilation activates at coastal city.
+
+Turn 04: Insect swarms overwhelm transport systems.
+
+Turn 05: Flesh Terraforming mutates rural landscape.
+
+Turn 06: Organic Expulsion disrupts rescue operations.
+
+Turn 07: Psionic hallucinations spread to command centers.
+
+Turn 08: Biomass reaches inland core.
+
+Turn 09: Final Form emerges — hunger devours entire region.
+
+Turn 10: All terrain, memory, and biology lost unless pacified.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+A trembling coastal camera captures a distant floating mass rising above the ocean. Tendrils dangle from below, and the sky darkens despite clear weather. Insect-like swarms flicker across the lower third of the frame.
+
+Image Prompt (For AI rendering)
+
+A colossal, fleshy eldritch Kaiju floating above a ruined, burning city. Its surface is covered in constantly shifting, malformed anatomy—organs that emerge and fold back in, tentacles writhing like corrupted muscle. A giant asymmetrical mouth opens wide at its center, casting a ominous red aura. Bodily fluids and biogases are released from organic fissures in its surface. Swarms of insectoid symbiotes swarm below like locusts. The background sky is dark, space-like, with lightning and distorted atmospheric fields. The Kaiju looms as if driven by hunger and alien sentience. Inspired by Hellstar Remina and The Thing. Cinematic, cosmic horror style, high detail, painterly.
+
+---
+
+# 008 — Athena（アテナ）
+
+Classification
+
+Cosmic Memory Avatar / Celestial Wisdom Construct
+
+Danger Rating
+
+Rank S+ – (Transcendent-Class)
+
+Origin
+
+Unknown; manifestation correlated with concentrated loss of knowledge
+
+Appearance
+
+A glowing equine figure pulsating with galactic textures. Wings like constellations, with luminous eyes of gold. Appears in ruins.
+
+Behavior Summary
+
+Observes, then strikes when epistemic structures destabilize. Rewrites reality by severing access to information systems.
+
+Signature Abilities
+
+Spear of Wisdom — Disassembles structures with concentrated light.
+
+Eye of Wrath — Fires focused solar beams capable of precision incineration.
+
+Divine Script Disruption — Alters or nullifies recorded knowledge (digital, physical, or mnemonic).
+
+Final Form
+
+Resonant cognitive field engulfs Earth’s surface. All written or spoken knowledge becomes mutable. Humanity loses control of narrative reality.
+
+Weaknesses
+
+Vulnerable to philosophical paradoxes, analog technologies, and abstract reasoning — high-IQ individuals or poetic counter-narratives can create local resistance zones.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: Apparition appears in ruins; surveillance distorts.
+
+Turn 02: Light wings unfold; atmospheric interference begins.
+
+Turn 03: Spear of Wisdom erases key archives.
+
+Turn 04: Eye of Wrath burns infrastructure of communication.
+
+Turn 05: Divine Script Disruption affects digital learning systems.
+
+Turn 06: Cognitive zones of forgetting spread to entire regions.
+
+Turn 07: Ancient languages overwrite everyday speech.
+
+Turn 08: Final Form initiated — reality fractures into symbolic domains.
+
+Turn 09: Memory collapse in scientific, legal, and medical fields.
+
+Turn 10: Human knowledge is irreversibly mutable unless sealed.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+A black-and-white surveillance feed from a mountain-top archaeological station shows a starry night sky shimmering unnaturally. Suddenly, a glowing equine figure materializes between ancient ruins—the body pulsating with shifting galaxy patterns of purple and blue. Its luminous wings unfold in silence, casting ethereal shadows across the broken columns. The camera struggles to stabilize as a faint humming overlays the audio feed, and its golden eyes reflect directly into the lens before the screen distorts.
+
+Image Prompt (For AI rendering)
+
+A radiant cosmic pegasus standing among ancient ruins under a starry night sky. Its body glows with shimmering blue and purple galaxy textures, and its large wings sparkle with bright, luminous stars in a turquoise hue. The pegasus has glowing golden eyes and a majestic, ethereal presence. Ruined stone columns in the background create a mythological ambiance. Style: fantasy digital painting, soft lighting, surreal glow effects, magical realism.
+
+---
+
+# 009 — Chacha（チャチャ）
+
+Classification
+
+Ghostly Childhood Mimic / Emotional Interference Entity
+
+Danger Rating
+
+Rank S – (Severe Multidomain Threat)
+
+Origin
+
+Unknown; appears to emerge from collective nostalgic trauma
+
+Appearance
+
+A tabby-like feline with glowing yellow eyes and large bat-like wings, perched in ruined environments. Its stillness amplifies dread.
+
+Behavior Summary
+
+Mimics emotionally resonant memories to induce paralysis or confusion. Draws power from isolation, trauma, and unresolved childhood emotion.
+
+Signature Abilities
+
+False Play — Creates illusions based on past events, disorienting victims.
+
+Chacha’s Song — Emits a frequency that disables electronics and slows cognition.
+
+Play With Me — Repeats traumatic interactions to force emotional exposure.
+
+Final Form
+
+Multiple Chacha entities appear simultaneously across the country, overloading emotional response systems and inducing paralysis in social decision-making.
+
+Weaknesses
+
+Noise-canceling fields, collective eyewitness observation, and child or elder voices disrupt its illusion field and weaken control.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: Appears in ruined urban zone; bystanders freeze.
+
+Turn 02: Emotional field expands to residential blocks.
+
+Turn 03: First false memories observed in survivors.
+
+Turn 04: Electronics and communication begin malfunctioning.
+
+Turn 05: Winged form takes flight; patrols nostalgic sites.
+
+Turn 06: Schoolchildren report being followed by "someone they miss."
+
+Turn 07: Elderly begin mass hallucinations and memory slips.
+
+Turn 08: Final Form initiated — national-level illusion onset.
+
+Turn 09: Individuals collapse from emotional overload.
+
+Turn 10: All media saturated with childhood reenactments; national paralysis.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+A low-resolution city surveillance camera captures a motionless tabby-shaped figure perched atop rubble in the middle of a ruined intersection. Its glowing yellow eyes pierce through the ash-laden twilight, and its large bat-like wings remain half-unfurled, casting sharp silhouettes across the cracked pavement. The feed flickers slightly as background mist rolls in, and several bystanders appear frozen mid-step—staring in silence, unaware of the camera. Audio cuts to static just before the figure's head tilts imperceptibly toward the lens.
+
+Image Prompt (For AI rendering)
+
+A haunting Kaiju cat sitting in the middle of a ruined city, with glowing yellow eyes and large leathery bat wings. The creature is eerily still, exuding both cuteness and dread. Its tabby fur is slightly dirty from the rubble, and its wings are outstretched, casting dramatic shadows in the post-apocalyptic twilight. The background is filled with broken buildings and a misty, ash-covered street. Gothic horror meets surreal innocence. Moody lighting, cinematic, painterly style.
+
+---
+
+# 010 — Dione（ディオネ）
+
+Classification
+
+Mythic Celestial Weathermind / Starborne Dragon
+
+Danger Rating
+
+Rank S – (Transcendent Multidomain)
+
+Origin
+
+Unknown; likely stellar entity attracted to planetary-scale thought
+
+Appearance
+
+A massive white-scaled dragon with crystal-clear wings and gold-tipped horns. Appears to be composed of starlight and refracted weather patterns.
+
+Behavior Summary
+
+Drifts across the stratosphere and upper atmosphere. Alters weather, time, and human memory. Contact correlates with planetary-scale anomalies.
+
+Signature Abilities
+
+Starfire Judgment — Fires solar-charged beams that refract into rainbow-arc destruction lines.
+
+Aegis of Ice and Dust — Creates a reflective shield of cosmic frost and charged particles.
+
+Dimensional Displacement — Temporarily erases targets from space, returning them altered or elsewhere.
+
+Final Form
+
+Merges with the planet’s weather systems to become an omnipresent sky consciousness. Alters memory and cognition on a global scale.
+
+Weaknesses
+
+Moonlight disrupts its stellar resonance field.
+
+High-frequency sound disrupts its equilibrium.
+
+Poetry or oral myth seems to trigger dormant constraints embedded in its cognitive matrix.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: Observed at high altitude; subtle weather irregularities.
+
+Turn 02: Static storms form in mountain regions.
+
+Turn 03: Begins low-orbit flight pattern above cities.
+
+Turn 04: Light beam strikes observed, minor damage.
+
+Turn 05: Dimensional Displacement initiates in affected zones.
+
+Turn 06: Global weather patterns deviate unpredictably.
+
+Turn 07: Memories begin shifting among population.
+
+Turn 08: Final Form active — sky entity status achieved.
+
+Turn 09: Civilizations lose ability to predict or trust sensory data.
+
+Turn 10: Becomes permanent planetary field unless negated.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+A faint, grainy CCTV feed from a high-altitude observatory captures a surreal sight above the cloud line — a massive, dragon-like entity drifting silently across the stratosphere, illuminated by flashes of golden refracted starlight. Its wings spread wide like crystalline veils, and its shimmering white scales scatter faint cosmic particles through the upper atmosphere. The timestamp flickers erratically as temporal distortion briefly disrupts the camera feed. For a moment, the sky appears to contain a constellation with motion.
+
+Image Prompt (For AI rendering)
+
+A majestic celestial dragon emerging from stardust in deep space, with shimmering white scales and radiant golden armor along its wings and spine. The creature has elongated, curved golden horns, crystal-clear eyes, and a divine presence. Its massive wings are outstretched against a nebula backdrop, glowing with cosmic energy. Dramatic lighting, mythological tone, surreal atmosphere. Perfect symmetry and awe-inspiring detail. Style: photorealistic digital art, fantasy, cinematic lighting.
+
+---
+
+_End of ONO Kaiju Bestiary (v2025.06.25)_
+
+For inquiries, simulation feedback, or to contribute new Kaiju, please contact the ONO facilitator team.
