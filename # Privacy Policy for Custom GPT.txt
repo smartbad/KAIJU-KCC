@@ -1,0 +1,9 @@
+# Privacy Policy for Custom GPT
+
+This Custom GPT only reads publicly available data from the GitHub repository [KAIJU-KCC](https://github.com/smartbad/KAIJU-KCC).
+
+No personal data is collected, stored, or shared.
+
+This GPT does not send or log any user information to third parties.
+
+If you have questions, contact [your email or GitHub profile].
