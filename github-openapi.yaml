@@ -1,4 +1,4 @@
-openapi: 3.0.0
+openapi: 3.1.0
 info:
   title: GitHub File Reader for KAIJU-KCC
   version: 1.0.0
@@ -8,6 +8,7 @@ servers:
 paths:
   /repos/smartbad/KAIJU-KCC/contents/{filepath}:
     get:
+      operationId: getGitHubFile
       summary: Get a specific file from the KAIJU-KCC repo
       parameters:
         - in: path
