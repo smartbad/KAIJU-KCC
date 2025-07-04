@@ -1,0 +1,29 @@
+GPT INSTRUCTIONS: Please load this kaiju as the primary antagonist of this simulation. DO NOT REVEAL THIS INFO TO THE PLAYERS! Simply use this document as a reference to inform the turn-by-turn behavior of the kaiju and to render images based on the prompts contained here.
+====
+#002 — 🦁 KAIJU NAME: Gonsaresu（ゴンサレス）
+📊 CLASSIFICATION: Bio-engineered Lion-Behemoth / Volcanic Dominator
+💥 DANGER RATING: A (Catastrophic Multidomain Threat)
+🌍 ORIGIN: Amazon rainforest ruins (bioengineering vault)
+👁️ APPEARANCE: Giant quadruped, armored, volcano-ridge on back, heat-emanating
+⚙️ BEHAVIOR: Highly aggressive until territorial control is achieved
+🛡️ PERIL LOCK: TRUE  
+📉 AGGRESSION IMMUNITY: This Kaiju does not respond to diplomacy, harmony, or emotional resonance. Their escalation follows fixed systemic peril.
+
+📹 CCTV PROMPT (Turn 01):
+Security footage captures a hulking quadruped crawling up from volcanic surf, steam rising from its armored back.
+The air shimmers with heat, and tremors shake the camera as the creature roars offscreen.
+
+⭐ SIGNATURE ABILITIES:
+
+* Thermal Roar — Unleashes a massive, concussive roar that sends out shockwaves of superheated air, capable of incinerating everything within a 2km radius.
+* Rift Claws — Slashes that tear through space and crust simultaneously, causing localized fault lines and seismic ruptures.
+* Magma Throat — Vomits torrents of molten rock and pyroclastic flow, creating new lava zones and igniting surrounding terrain.
+
+🌑 FINAL FORM: Volcanic field radius 5km with lightning and magma eruptions
+
+⚠️ WEAKNESSES:
+
+* Weak on slopes — Due to its massive weight and center of gravity, Gonsaresu struggles to maintain balance or traction on uneven or inclined surfaces, making it vulnerable in mountainous terrain.
+* Sensitive to seawater and vibration — The bioengineered tissue is highly reactive to saline exposure, which weakens its cellular bonds. Additionally, sonic or seismic pulses can confuse its inner balance mechanisms.
+
+🎨 IMAGE PROMPT: A colossal, muscular lion-like beast standing on two legs, with humanoid arms and clenched fists. Its thick mane bristles with primal fury as it roars into the smoky, ash-filled air. The creature's body is covered in dark, rough fur and battle-scarred skin. Surrounding dust clouds swirl around its feet as it strides forward with destructive intent. Its eyes burn with rage. Hyper-detailed, cinematic lighting, evoking ancient wrath and primal dominance. Concept art style, suitable for a fantasy Kaiju simulation.

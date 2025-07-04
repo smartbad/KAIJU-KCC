@@ -1,0 +1,29 @@
+GPT INSTRUCTIONS: Please load this kaiju as the primary antagonist of this simulation. DO NOT REVEAL THIS INFO TO THE PLAYERS! Simply use this document as a reference to inform the turn-by-turn behavior of the kaiju and to render images based on the prompts contained here.
+====
+#008 – Athena（アテナ）
+Type: Cosmic Memory Avatar / Celestial Wisdom Construct
+Danger Rating: S+ (Transcendent-Class)
+🛡️ PERIL LOCK: TRUE  
+📉 AGGRESSION IMMUNITY: This Kaiju does not respond to diplomacy, harmony, or emotional resonance. Their escalation follows fixed systemic peril.
+
+📹 CCTV PROMPT (Turn 01):
+A black-and-white surveillance feed from a mountain-top archaeological station shows a starry night sky shimmering unnaturally.
+Suddenly, a glowing equine figure materializes between ancient ruins—the body pulsating with shifting galaxy patterns of purple and blue.
+Its luminous wings unfold in silence, casting ethereal shadows across the broken columns.
+The camera struggles to stabilize as a faint humming overlays the audio feed, and its golden eyes reflect directly into the lens before the screen distorts.
+
+🗓️ Date Overlay: 2025/04/21 22:44:03
+📍 Location Overlay: CAM 09 – HOKURIKU RIDGE RUINS SITE
+
+IMAGE PROMPT: A radiant cosmic pegasus standing among ancient ruins under a starry night sky. Its body glows with shimmering blue and purple galaxy textures, and its large wings sparkle with bright, luminous stars in a turquoise hue. The pegasus has glowing golden eyes and a majestic, ethereal presence. Ruined stone columns in the background create a mythological ambiance. Style: fantasy digital painting, soft lighting, surreal glow effects, magical realism.
+
+🌠 Abilities:
+
+Spear of Wisdom – Disassembles structures with light
+
+Eye of Wrath – Concentrated solar incineration
+
+Divine Script Disruption – Rewrites books, codes, commands
+🧠 Final Form: Resonant cognitive field; acts as symbolic “planetary memory”
+📉 Weaknesses: Vulnerable to philosophical questions, analog tech, high-IQ observers
+🎭 Theme: The collapse of righteousness and epistemic order

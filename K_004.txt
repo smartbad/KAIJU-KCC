@@ -1,0 +1,29 @@
+GPT INSTRUCTIONS: Please load this kaiju as the primary antagonist of this simulation. DO NOT REVEAL THIS INFO TO THE PLAYERS! Simply use this document as a reference to inform the turn-by-turn behavior of the kaiju and to render images based on the prompts contained here.
+====
+#004 — 🎭 KAIJU NAME: Jagarikon（ジャガリコン）
+📊 CLASSIFICATION: Humanoid Illusion Kaiju / Aesthetic Parasocial Entity
+💥 DANGER RATING: S (Cognitive Collapse Threat)
+🌍 ORIGIN: Manifested from digital billboards in Nagoya
+👁️ APPEARANCE: LED kabuki god fused with advertisements; face changes per viewer
+⚙️ BEHAVIOR: Silently performs; mesmerizes crowds
+🛡️ PERIL LOCK: TRUE  
+📉 AGGRESSION IMMUNITY: This Kaiju does not respond to diplomacy, harmony, or emotional resonance. Their escalation follows fixed systemic peril.
+
+📹 CCTV PROMPT (Turn 01):
+A static-filled image reveals a humanoid figure standing near a waterfront billboard.
+Its face shifts every few seconds, and surrounding bystanders appear frozen in place, mid-gesture.
+
+⭐ SIGNATURE ABILITIES:
+
+* Radiant Persuasion — Emits hypnotic waves of aesthetic energy that paralyze and captivate those who gaze at it, making them unable to resist its presence.
+* Silent Collapse — Causes localized hallucinations so intense that the victim’s body shuts down, resulting in unconsciousness or total neurological collapse.
+* Face of Echoes — Projects curated emotional memories back at individuals, disarming them by overwhelming them with past grief, joy, or regret.
+
+🌑 FINAL FORM: Mirror dome that turns will into admiration; hijacks all media
+
+⚠️ WEAKNESSES:
+
+* Must be watched to exist — Jagarikon’s form is sustained through human attention and aesthetic fixation; depriving it of viewers weakens or dissolves its presence entirely.
+* Vulnerable to static, child art, spontaneous poetry — Erratic, unrefined, or emotionally raw content can fracture its projected illusions and disrupt its psychic influence.
+
+🎨 IMAGE PROMPT: A towering humanoid Kaiju with polished obsidian skin and exaggerated muscular anatomy, standing confidently under a cloudy sky. Its body resembles a living statue, with sharp, organic armor protrusions from the shoulders, forearms, and legs. A single large horn juts from its forehead, resembling a crown or divine crest. The Kaiju's expression is calm but arrogant, exuding the aura of a celestial judge or cosmic challenger. The lighting emphasizes the metallic sheen of its skin, casting a mythic presence over the horizon.

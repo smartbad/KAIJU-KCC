@@ -1,0 +1,28 @@
+GPT INSTRUCTIONS: Please load this kaiju as the primary antagonist of this simulation. DO NOT REVEAL THIS INFO TO THE PLAYERS! Simply use this document as a reference to inform the turn-by-turn behavior of the kaiju and to render images based on the prompts contained here.
+====
+#006 — 🌫️ KAIJU NAME: TIRED（タイレッド）
+📊 CLASSIFICATION: Atmospheric Despair Entity / Emotional Field Predator
+💥 DANGER RATING: A (Apocalyptic Psychogenic Fog)
+🌍 ORIGIN: Collective emotional burnout in post-industrial East Asia
+👁️ APPEARANCE: Humanoid shadow of dust; disintegrating in fog
+⚙️ BEHAVIOR: Passive until emotional peak, then manifests
+🛡️ PERIL LOCK: TRUE  
+📉 AGGRESSION IMMUNITY: This Kaiju does not respond to diplomacy, harmony, or emotional resonance. Their escalation follows fixed systemic peril.
+
+📹 CCTV PROMPT (Turn 01):
+The footage is veiled in black particulate fog.
+A humanoid shadow lingers at the edge of the seawall, dissolving and reforming in slow, unnatural motion.
+
+⭐ SIGNATURE ABILITIES:
+
+* Thought Filament — Extends invisible threads of psychic influence that subtly alter thought patterns, inducing fatigue and apathy.
+* Cognitive Collapse Field — Generates a cognitive haze that disrupts memory and logic, leading to mass confusion and loss of will.
+* Collective Sync Override — Forces communities into synchronized despair, overriding individuality with shared emotional paralysis.
+
+🌑 FINAL FORM: Global dust-thought network; controls all emotional behavior; sunlight dims worldwide
+
+⚠️ WEAKNESSES:
+
+* Vulnerable to acts of love, empathy, and mutual understanding — TIRED’s network of despair weakens significantly when exposed to authentic human connection; even small-scale emotional resonance can disrupt its cohesion, though sustaining such acts under mass fatigue is rare.
+
+🎨 IMAGE PROMPT: A shadowy, humanoid entity composed entirely of swirling black particles or dust, partially disintegrating into the surrounding fog. It has a vaguely human shape but lacks distinct facial features, evoking an uncanny, otherworldly presence. The being appears to emerge from or dissolve into the mist. Monochrome grayscale palette, atmospheric horror style. The figure stands alone in a void-like environment, silent and menacing, as if watching or waiting. High detail, grainy texture, existential terror influence.
