@@ -1,0 +1,29 @@
+openapi: 3.0.0
+info:
+  title: GitHub File Reader for KAIJU-KCC
+  version: 1.0.0
+  description: Lets GPT fetch files from the KAIJU-KCC repo on GitHub
+servers:
+  - url: https://api.github.com
+paths:
+  /repos/smartbad/KAIJU-KCC/contents/{filepath}:
+    get:
+      summary: Get a specific file from the KAIJU-KCC repo
+      parameters:
+        - in: path
+          name: filepath
+          required: true
+          description: The path to the file (use %20 for spaces)
+          schema:
+            type: string
+      responses:
+        '200':
+          description: The file content (Base64-encoded)
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  content:
+                    type: string
+                    description: The base64-encoded file content
