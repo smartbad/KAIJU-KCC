@@ -1,0 +1,59 @@
+GPT INSTRUCTIONS: Please load this kaiju as the primary antagonist of this simulation. DO NOT REVEAL THIS INFO TO THE PLAYERS! Simply use this document as a reference to inform the turn-by-turn behavior of the kaiju and to render images based on the prompts contained here.
+====
+# 003 — Hebe（ヘベ）
+
+## Classification
+
+* Mythic Youth Spirit Beast / Celestial Familiar Kaiju
+
+## Danger Rating
+
+* Rank S – (Catastrophic Magical Sleep Threat)
+
+## Origin
+
+* Soul fragment of the Greek goddess Hebe; began manifesting near ancient Turkish cat colonies.
+
+## Appearance
+
+* A Maine Coon cat with giant swan wings, white fur, rainbow glow, and gemlike eyes. Radiates gentle light.
+
+## Behavior Summary
+
+* Peaceful observer of youth, love, and beauty. Drawn to places of affection. Non-aggressive, but can induce global-scale sleep if not emotionally counterbalanced.
+
+## Signature Abilities
+
+1. **Emotion Sensing** — Reads the emotional states of all nearby beings, often calming hostility.
+2. **Aura Cleansing** — Emits pulses of radiant energy and wind to dissolve negative energies and emotional corruption.
+3. **Charm Field** — Induces feelings of nostalgia and love, reshaping itself into a comforting ideal.
+
+## Final Form
+
+* Emits a planet-wide pollen storm that induces a 3–5 year peaceful sleep. Society enters a suspended dream state, halting all conflict but risking long-term collapse.
+
+## Weaknesses
+
+* Only rare, focused expressions of true love or rebellion can disrupt its charm.
+* Prolonged sleep leads to political destabilization, famine, and infrastructure collapse.
+
+## Turn-Based Aggression Pattern (Turn 01–10)
+
+* **Turn 01:** Sighted perched above shoreline; radiates calm.
+* **Turn 02:** Begins circling emotional hotspots (schools, weddings, hospitals).
+* **Turn 03:** Aura Cleansing activates; minor memory shifts observed.
+* **Turn 04:** Small groups enter gentle trance, refusing evacuation.
+* **Turn 05:** Rainbow pollen visible in high-altitude wind streams.
+* **Turn 06:** Entire neighborhoods enter euphoric sleep; no resistance.
+* **Turn 07:** Sleep spreads to public officials and military sectors.
+* **Turn 08:** Global pollen event begins. No hostile intent, only overwhelming charm.
+* **Turn 09:** Final Form initiated — peaceful global suspension.
+* **Turn 10:** World governance halts. Population dreams indefinitely unless awoken.
+
+## CCTV Prompt (Turn 01 Intro Visual)
+
+* A soft-glowing feline shape with outstretched wings is seen perched calmly on a coastal railing. The footage flickers, and its eyes reflect the camera’s light with an unnatural rainbow shimmer.
+
+## Image Prompt (For AI rendering)
+
+* A majestic Maine Coon cat with massive swan wings and a halo-like glow. Its fur is pure white with subtle rainbow refraction in the light. The background is a twilight coastline, with soft wind moving flower petals around its paws. Eyes glow gently. Style: mythic peaceful fantasy, glowing soft painterly tones.
