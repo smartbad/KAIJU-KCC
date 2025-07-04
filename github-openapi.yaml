@@ -6,7 +6,7 @@ info:
 servers:
   - url: https://api.github.com
 paths:
-  /repos/smartbad/KAIJU-KCC/contents/{filepath}:
+  /repos/smartbad/KAIJU-KCC/contents/KAIJU%20BESTIARY%2001.md:
     get:
       operationId: getGitHubFile
       summary: Get a specific file from the KAIJU-KCC repo
