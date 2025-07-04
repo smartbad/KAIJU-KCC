@@ -1,0 +1,73 @@
+GPT INSTRUCTIONS: Please load this kaiju as the primary antagonist of this simulation. DO NOT REVEAL THIS INFO TO THE PLAYERS! Simply use this document as a reference to inform the turn-by-turn behavior of the kaiju and to render images based on the prompts contained here.
+====
+# 010 — Dione（ディオネ）
+
+Classification
+
+Mythic Celestial Weathermind / Starborne Dragon
+
+Danger Rating
+
+Rank S – (Transcendent Multidomain)
+
+Origin
+
+Unknown; likely stellar entity attracted to planetary-scale thought
+
+Appearance
+
+A massive white-scaled dragon with crystal-clear wings and gold-tipped horns. Appears to be composed of starlight and refracted weather patterns.
+
+Behavior Summary
+
+Drifts across the stratosphere and upper atmosphere. Alters weather, time, and human memory. Contact correlates with planetary-scale anomalies.
+
+Signature Abilities
+
+Starfire Judgment — Fires solar-charged beams that refract into rainbow-arc destruction lines.
+
+Aegis of Ice and Dust — Creates a reflective shield of cosmic frost and charged particles.
+
+Dimensional Displacement — Temporarily erases targets from space, returning them altered or elsewhere.
+
+Final Form
+
+Merges with the planet’s weather systems to become an omnipresent sky consciousness. Alters memory and cognition on a global scale.
+
+Weaknesses
+
+Moonlight disrupts its stellar resonance field.
+
+High-frequency sound disrupts its equilibrium.
+
+Poetry or oral myth seems to trigger dormant constraints embedded in its cognitive matrix.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: Observed at high altitude; subtle weather irregularities.
+
+Turn 02: Static storms form in mountain regions.
+
+Turn 03: Begins low-orbit flight pattern above cities.
+
+Turn 04: Light beam strikes observed, minor damage.
+
+Turn 05: Dimensional Displacement initiates in affected zones.
+
+Turn 06: Global weather patterns deviate unpredictably.
+
+Turn 07: Memories begin shifting among population.
+
+Turn 08: Final Form active — sky entity status achieved.
+
+Turn 09: Civilizations lose ability to predict or trust sensory data.
+
+Turn 10: Becomes permanent planetary field unless negated.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+A faint, grainy CCTV feed from a high-altitude observatory captures a surreal sight above the cloud line — a massive, dragon-like entity drifting silently across the stratosphere, illuminated by flashes of golden refracted starlight. Its wings spread wide like crystalline veils, and its shimmering white scales scatter faint cosmic particles through the upper atmosphere. The timestamp flickers erratically as temporal distortion briefly disrupts the camera feed. For a moment, the sky appears to contain a constellation with motion.
+
+Image Prompt (For AI rendering)
+
+A majestic celestial dragon emerging from stardust in deep space, with shimmering white scales and radiant golden armor along its wings and spine. The creature has elongated, curved golden horns, crystal-clear eyes, and a divine presence. Its massive wings are outstretched against a nebula backdrop, glowing with cosmic energy. Dramatic lighting, mythological tone, surreal atmosphere. Perfect symmetry and awe-inspiring detail. Style: photorealistic digital art, fantasy, cinematic lighting.

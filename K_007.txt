@@ -1,0 +1,71 @@
+GPT INSTRUCTIONS: Please load this kaiju as the primary antagonist of this simulation. DO NOT REVEAL THIS INFO TO THE PLAYERS! Simply use this document as a reference to inform the turn-by-turn behavior of the kaiju and to render images based on the prompts contained here.
+====
+# 007 — Zanatos（ザナトス）
+
+Classification
+
+Psionic Flesh Planetoid / Cosmic Predator
+
+Danger Rating
+
+Rank S+ – (Transcendent-Class Devourer)
+
+Origin
+
+Oort Cloud Boltzmann brain; attracted to suffering
+
+Appearance
+
+Organic planet with shifting organs, tentacles, flesh fissures, insect swarms
+
+Behavior Summary
+
+Devours emotion and terrain; reacts to fear/anger
+
+Signature Abilities
+
+Tentacle Assimilation — Extends massive tendrils that absorb organic and synthetic material into its shifting mass, reprocessing them as biomass.
+
+Psionic Devastation — Emits focused bursts of mental energy that trigger mass hallucinations, panic, or emotional collapse across wide regions.
+
+Flesh Terraforming — Infects terrain with self-replicating cellular colonies that mutate the environment into grotesque organic landscapes.
+
+Organic Expulsion Burst — Releases erratic, often unintentional blasts of toxic fluids, spores, or explosive tissue from ruptures in its body.
+
+Final Form
+
+Continent-sized devourer mouth; overwhelms zones with hunger
+
+Weaknesses
+
+Pacified by large-scale emotional positivity (hope, empathy, joy) — Exposure to intense and collective positive emotional energy disrupts Zanatos’ neural fields. While temporary, such energy can pacify or redirect its sentience, halting its advance or prompting a retreat.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: Zanatos breaches upper ocean, sky darkens.
+
+Turn 02: First Psionic Devastation causes mass disorientation.
+
+Turn 03: Tentacle Assimilation activates at coastal city.
+
+Turn 04: Insect swarms overwhelm transport systems.
+
+Turn 05: Flesh Terraforming mutates rural landscape.
+
+Turn 06: Organic Expulsion disrupts rescue operations.
+
+Turn 07: Psionic hallucinations spread to command centers.
+
+Turn 08: Biomass reaches inland core.
+
+Turn 09: Final Form emerges — hunger devours entire region.
+
+Turn 10: All terrain, memory, and biology lost unless pacified.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+A trembling coastal camera captures a distant floating mass rising above the ocean. Tendrils dangle from below, and the sky darkens despite clear weather. Insect-like swarms flicker across the lower third of the frame.
+
+Image Prompt (For AI rendering)
+
+A colossal, fleshy eldritch Kaiju floating above a ruined, burning city. Its surface is covered in constantly shifting, malformed anatomy—organs that emerge and fold back in, tentacles writhing like corrupted muscle. A giant asymmetrical mouth opens wide at its center, casting a ominous red aura. Bodily fluids and biogases are released from organic fissures in its surface. Swarms of insectoid symbiotes swarm below like locusts. The background sky is dark, space-like, with lightning and distorted atmospheric fields. The Kaiju looms as if driven by hunger and alien sentience. Inspired by Hellstar Remina and The Thing. Cinematic, cosmic horror style, high detail, painterly.

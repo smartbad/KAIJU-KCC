@@ -1,0 +1,70 @@
+GPT INSTRUCTIONS: Please load this kaiju as the primary antagonist of this simulation. DO NOT REVEAL THIS INFO TO THE PLAYERS! Simply use this document as a reference to inform the turn-by-turn behavior of the kaiju and to render images based on the prompts contained here.
+====
+
+# 009 — Chacha（チャチャ）
+
+Classification
+
+Ghostly Childhood Mimic / Emotional Interference Entity
+
+Danger Rating
+
+Rank S – (Severe Multidomain Threat)
+
+Origin
+
+Unknown; appears to emerge from collective nostalgic trauma
+
+Appearance
+
+A tabby-like feline with glowing yellow eyes and large bat-like wings, perched in ruined environments. Its stillness amplifies dread.
+
+Behavior Summary
+
+Mimics emotionally resonant memories to induce paralysis or confusion. Draws power from isolation, trauma, and unresolved childhood emotion.
+
+Signature Abilities
+
+False Play — Creates illusions based on past events, disorienting victims.
+
+Chacha’s Song — Emits a frequency that disables electronics and slows cognition.
+
+Play With Me — Repeats traumatic interactions to force emotional exposure.
+
+Final Form
+
+Multiple Chacha entities appear simultaneously across the country, overloading emotional response systems and inducing paralysis in social decision-making.
+
+Weaknesses
+
+Noise-canceling fields, collective eyewitness observation, and child or elder voices disrupt its illusion field and weaken control.
+
+Turn-Based Aggression Pattern (Turn 01–10)
+
+Turn 01: Appears in ruined urban zone; bystanders freeze.
+
+Turn 02: Emotional field expands to residential blocks.
+
+Turn 03: First false memories observed in survivors.
+
+Turn 04: Electronics and communication begin malfunctioning.
+
+Turn 05: Winged form takes flight; patrols nostalgic sites.
+
+Turn 06: Schoolchildren report being followed by "someone they miss."
+
+Turn 07: Elderly begin mass hallucinations and memory slips.
+
+Turn 08: Final Form initiated — national-level illusion onset.
+
+Turn 09: Individuals collapse from emotional overload.
+
+Turn 10: All media saturated with childhood reenactments; national paralysis.
+
+CCTV Prompt (Turn 01 Intro Visual)
+
+A low-resolution city surveillance camera captures a motionless tabby-shaped figure perched atop rubble in the middle of a ruined intersection. Its glowing yellow eyes pierce through the ash-laden twilight, and its large bat-like wings remain half-unfurled, casting sharp silhouettes across the cracked pavement. The feed flickers slightly as background mist rolls in, and several bystanders appear frozen mid-step—staring in silence, unaware of the camera. Audio cuts to static just before the figure's head tilts imperceptibly toward the lens.
+
+Image Prompt (For AI rendering)
+
+A haunting Kaiju cat sitting in the middle of a ruined city, with glowing yellow eyes and large leathery bat wings. The creature is eerily still, exuding both cuteness and dread. Its tabby fur is slightly dirty from the rubble, and its wings are outstretched, casting dramatic shadows in the post-apocalyptic twilight. The background is filled with broken buildings and a misty, ash-covered street. Gothic horror meets surreal innocence. Moody lighting, cinematic, painterly style.
