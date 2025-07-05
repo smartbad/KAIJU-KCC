@@ -1,0 +1,29 @@
+GPT INSTRUCTIONS: Please load this kaiju as the primary antagonist of this simulation. DO NOT REVEAL THIS INFO TO THE PLAYERS! Simply use this document as a reference to inform the turn-by-turn behavior of the kaiju and to render images based on the prompts contained here.
+====
+#005 — 💗 KAIJU NAME: Puaaaa（プアーー）
+📊 CLASSIFICATION: Sonic Deep-Sea Resonator Kaiju / Peace-Spirit Entity
+💥 DANGER RATING: A (Trance & Infrastructure Collapse)
+🌍 ORIGIN: Seafloor quake off Kii Peninsula
+👁️ APPEARANCE: Pink fluffy tubeworm with spiral eyes; emits sad hums
+⚙️ BEHAVIOR: Does not walk—moves terrain via sonic waves
+🛡️ PERIL LOCK: TRUE  
+📉 AGGRESSION IMMUNITY: This Kaiju does not respond to diplomacy, harmony, or emotional resonance. Their escalation follows fixed systemic peril.
+
+📹 CCTV PROMPT (Turn 01):
+A pink, fluffy creature emerges slowly from dense coastal fog.
+Spiral eyes glow faintly, and the camera microphone picks up a low harmonic hum that distorts the audio feed.
+
+⭐ SIGNATURE ABILITIES:
+
+* PUAAAA Wave — Emits a deep harmonic pulse that disrupts human neurological functions and damages subterranean infrastructure simultaneously.
+* Auditory Corruption — Transmits emotionally resonant sound patterns that cause synchronized hallucinations and pacified behavior in nearby populations.
+* Subduction Echo — Manipulates tectonic frequencies to loosen fault lines and induce unnatural earthquakes beneath cities.
+
+🌑 FINAL FORM: Atmospheric amplification—entire cities enter trance state
+
+⚠️ WEAKNESSES:
+
+* Weak on land — Puaaaa’s anatomy is adapted for deep-sea resonance; land exposure causes disorientation and limits its sonic propulsion.
+* Confused by reversed frequencies and analog audio — Non-digital or reversed sound waves interfere with its harmonics, distorting its intent and reducing trance effects.
+
+🎨 IMAGE PROMPT: A fluffy pink creature with spiral-shaped eyes and a round, emotional face. Its body is soft and slightly glowing, evoking warmth and vulnerability. It stands quietly with a sad expression, arms hanging at its sides. It appears gentle but mysterious, as if hiding immense cosmic power. Background is a plain parchment color, enhancing the creature’s childlike presence. Style is hand-drawn, storybook-like, and emotionally expressive. Designed to represent a spirit of peace, victory, and emotional resonance.
